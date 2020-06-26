@@ -2,6 +2,8 @@
 
 This repository contains a boilerplate for a Juris interview and document generation. It's all you need! Literally!
 
+Check out https://github.com/JurisLibrary for more templates.
+
 ## Run It
 
 Want to test it out? Run it by visiting: 
